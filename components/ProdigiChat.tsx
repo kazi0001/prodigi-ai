@@ -51,10 +51,12 @@ export default function ProdigiChat() {
         return message.content ?? "";
     }
 
+    const visibleMessages = messages as any[];
+
     return (
         <div className="rounded-2xl border border-slate-800 bg-slate-900 shadow-xl">
             <div className="h-[520px] overflow-y-auto p-5 space-y-4">
-                {messages.map((message) => (
+                {visibleMessages.map((message) => (
                     <div
                         key={message.id}
                         className={
@@ -77,7 +79,7 @@ export default function ProdigiChat() {
 
                 {error && (
                     <div className="mr-auto max-w-[80%] rounded-2xl bg-red-900 px-4 py-3 text-sm text-red-100">
-                        Error: {error.message}
+                        Error: {error.message || "Something went wrong."}
                     </div>
                 )}
             </div>
