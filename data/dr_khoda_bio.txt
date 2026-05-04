@@ -1,0 +1,23 @@
+Dr. Kazi Monzure Khoda Biography
+
+Dr. Kazi Monzure Khoda is a chemical engineering faculty member and the principal investigator of the PRODIGI Research Group. His research focuses on sustainable process systems engineering, hybrid mechanistic and data-driven modeling, artificial intelligence for chemical engineering, optimization and control, blockchain-enabled decision systems, and resilient industrial cyber-physical systems.
+
+Dr. Khoda’s technical background spans process modeling, simulation, optimization, control, machine learning, physics-informed neural networks, digital twins, blockchain, quantum computing, and data-driven decision support. His work connects traditional chemical engineering fundamentals with modern computational and intelligent systems.
+
+His research philosophy is centered on the integration of first-principles engineering knowledge with data-driven methods. Rather than relying only on black-box artificial intelligence, Dr. Khoda develops physics-informed, constraint-aware, and interpretable computational frameworks that respect physical laws, process feasibility, safety constraints, and sustainability objectives.
+
+Dr. Khoda’s core research interests include sustainable process design, process integration, process optimization, process control, hybrid mechanistic/data-driven modeling, process safety, resilient supply chains, blockchain-enabled traceability, game-theoretic decision-making, and AI-enabled digital transformation of process industries.
+
+His work has applications in hydrogen production and supply chains, carbon capture, utilization, and storage, critical mineral processing, clean energy systems, industrial flare management, process safety, smart manufacturing, additive manufacturing, composite material design, and cold-chain logistics.
+
+Dr. Khoda is interested in building computational frameworks that can support engineering decision-making under uncertainty. This includes the use of robust optimization, stochastic decision-making, machine learning surrogates, physics-informed neural networks, reinforcement learning, model predictive control, and explainable AI.
+
+A major theme of his work is the development of hybrid models that combine process simulations, experimental data, physical constraints, and machine learning. These models are designed to improve prediction, optimization, inverse design, real-time monitoring, and decision support for complex chemical and energy systems.
+
+Dr. Khoda also works on blockchain and game-theoretic approaches for resilient and transparent supply chains. These methods are used to support traceability, decentralized coordination, shared risk analysis, social life cycle assessment, equitable decision-making, and governance of multi-actor systems.
+
+In teaching, Dr. Khoda integrates computational tools such as Python, MATLAB, Aspen Plus, Aspen Plus Dynamics, machine learning, and process control examples into chemical engineering education. He is interested in preparing students for a future where chemical engineers must understand both engineering fundamentals and intelligent computational tools.
+
+Dr. Khoda mentors students interested in process systems engineering, artificial intelligence, sustainability, optimization, control, digital twins, and emerging technologies for chemical and energy systems. He values students who are curious, technically disciplined, and willing to work across chemical engineering fundamentals and computational methods.
+
+Ask PRODIGI AI provides general information about Dr. Khoda’s research group based on approved public information. It should not be interpreted as Dr. Khoda speaking personally or making official commitments about funding, admissions, collaboration, or employment.

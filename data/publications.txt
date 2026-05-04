@@ -1,0 +1,279 @@
+PRODIGI Publications and Scholarly Work
+
+This document summarizes Dr. Kazi Monzure Khoda’s scholarly work and publication themes for use in the Ask PRODIGI AI retrieval-grounded research assistant. It is intended to help visitors understand the major research directions, representative publications, and technical scope of the PRODIGI Research Group.
+
+Dr. Khoda’s Google Scholar profile lists research areas including Hybrid Data-Driven Modeling, Supply Chain Digitalization, Blockchain-Game-Theory, and CCUS-H2 Economy. The profile reports 1,725 total citations, 1,568 citations since 2021, an h-index of 20, and an i10-index of 27 at the time of the provided snapshot.
+
+The publication record spans process systems engineering, hydrogen economy, carbon capture, renewable energy, industrial flare management, process safety, inherently safer design, hybrid data-driven modeling, artificial intelligence, composites and smart manufacturing, blockchain-enabled carbon trading, game-theoretic decision-making, ionic liquids, PFAS remediation, and quantum/AI-enabled optimization.
+
+Major Publication Themes
+
+1. Hydrogen Economy, Clean Energy, and Industrial Decarbonization
+
+Dr. Khoda has published extensively on hydrogen economy, industrial decarbonization, and clean energy transition. This work includes techno-economic analysis, process systems optimization, multi-sector hydrogen demand, hydrogen supply chains, and strategic planning for industrial and maritime decarbonization.
+
+Representative publications include:
+
+- Green hydrogen for industrial sector decarbonization: Costs and impacts on hydrogen economy in Qatar. Authors: MK Kazi, F Eljack, MM El-Halwagi, M Haouari. Journal: Computers & Chemical Engineering, 145, 107144. Year: 2021. This is one of Dr. Khoda’s most cited works and focuses on the cost and system-level impact of green hydrogen for industrial decarbonization.
+
+- Prospects and challenges of green hydrogen economy via multi-sector global symbiosis in Qatar. Authors: F Eljack, MK Kazi. Journal: Frontiers in Sustainability, 1, 612762. Year: 2021. This paper discusses the role of green hydrogen in multi-sector decarbonization and industrial symbiosis.
+
+- Practicality of Green H2 Economy for Industry and Maritime Sector Decarbonization through Multiobjective Optimization and RNN-LSTM Model Analysis. Authors: MK Kazi, F Eljack. Journal: Industrial & Engineering Chemistry Research, 61(18), 6173-6189. Year: 2022. This work combines optimization and RNN-LSTM analysis to evaluate hydrogen economy pathways for industrial and maritime sectors.
+
+- A systematic review: The role of emerging carbon capture and conversion technologies for energy transition to clean hydrogen. Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi. Journal: Journal of Cleaner Production, 447, 141506. Year: 2024. This review connects carbon capture and conversion technologies with clean hydrogen transition.
+
+- Process and Network Design for Sustainable Hydrogen Economy. Authors: MK Kazi, A Gandhi, MMF Hasan. Venue: Systems and Control Transactions, FOCAPD 2024, 3, 1018. Year: 2024.
+
+- Strategic Planning of Hydrogen Supply Chains for Meeting Local, Regional, and Global Demands. Authors: K Khoda, A Gandhi, F Hasan. Venue: 2023 AIChE Annual Meeting. Year: 2023.
+
+- Green H2 Fuel for Industry and Maritime Sector Decarbonization: Impacts on Hydrogen Economy for Qatar. Authors: K Khoda, F Eljack. Venue: 2022 AIChE Annual Meeting. Year: 2022.
+
+- Developing Sustainable, Safer and Integrated Green H2 Supply Chains for Qatar’s Industrial, Transportation and Shipping Sector. Authors: K Khoda, F Eljack, M El-Halwagi, M Haouari. Venue: 2021 Spring Meeting and 17th Global Congress on Process Safety. Year: 2021.
+
+2. Carbon Capture, Utilization, Storage, and Carbon Management
+
+Dr. Khoda’s publication record includes major contributions to carbon capture, utilization, storage, and process systems perspectives on carbon management. The work combines process systems engineering, techno-economic analysis, energy transition, ionic liquids, and process modeling.
+
+Representative publications include:
+
+- Challenges and opportunities in carbon capture, utilization and storage: A process systems engineering perspective. Authors: MMF Hasan, MS Zantye, MK Kazi. Journal: Computers & Chemical Engineering, 166, 107925. Year: 2022. This paper provides a process systems engineering perspective on CCUS challenges and opportunities.
+
+- A systematic review: The role of emerging carbon capture and conversion technologies for energy transition to clean hydrogen. Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi. Journal: Journal of Cleaner Production, 447, 141506. Year: 2024.
+
+- Simulation and 3E assessment of pre-combustion CO2 capture process using novel Ionic liquids for blue H2 production. Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi. Venue: Computer Aided Chemical Engineering, 53, 517-522. Year: 2024.
+
+- Process Modeling of Pre-Combustion CO2 Capture Using Novel Ionic Liquids for Blue H2 Production: 3E Evaluation. Authors: S Mohammed, F Eljack, K Khoda. Venue: 2024 Spring Meeting & 20th Global Congress on Process Safety. Year: 2024.
+
+- Development of a deep learning-based group contribution framework for targeted design of ionic liquids. Authors: S Mohammed, F Eljack, MK Kazi, M Atilhan. Journal: Computers & Chemical Engineering, 186, 108715. Year: 2024.
+
+- Development of deep learning framework to predict physicochemical properties for Ionic liquids. Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi. Venue: Computer Aided Chemical Engineering, 52, 2119-2124. Year: 2023.
+
+3. Renewable Energy and Photovoltaic Power Prediction
+
+Dr. Khoda has contributed to renewable energy modeling, especially machine learning-based prediction of photovoltaic power output under environmental uncertainty.
+
+Representative publications include:
+
+- Machine learning based photovoltaics (PV) power prediction using different environmental parameters of Qatar. Authors: Amith Khandakar, Muhammad E. H. Chowdhury, Monzure Khoda Kazi, Kamel Benhmed, and coauthors. Journal: Energies, 12(14), 2782. Year: 2019. This highly cited paper applies machine learning for photovoltaic power prediction using environmental parameters.
+
+- Status of renewable energy in the GCC region and future opportunities. Authors: A Elrahmani, J Hannun, F Eljack, MK Kazi. Journal: Current Opinion in Chemical Engineering, 31, 100664. Year: 2021. This paper reviews renewable energy status and future opportunities in the GCC region.
+
+4. Industrial Flare Management, Process Integration, and Abnormal Situation Management
+
+A major part of Dr. Khoda’s earlier and continuing research focuses on industrial flare management, abnormal situation management, process integration, and conversion of waste streams into useful resources. This work is strongly connected to process safety, uncertainty management, multiobjective optimization, and environmental sustainability.
+
+Representative publications include:
+
+- Integration of energy and wastewater treatment alternatives with process facilities to manage industrial flares during normal and abnormal operations: multiobjective extendible optimization. Authors: MK Kazi, F Eljack, NA Elsayed, MM El-Halwagi. Journal: Industrial & Engineering Chemistry Research, 55(7), 2020-2034. Year: 2016.
+
+- Multi-objective optimization methodology to size cogeneration systems for managing flares from uncertain sources during abnormal process operations. Authors: MK Kazi, F Mohammed, AMN AlNouss, F Eljack. Journal: Computers & Chemical Engineering, 76, 76-86. Year: 2015.
+
+- A process design approach to manage the uncertainty of industrial flaring during abnormal operations. Authors: MK Kazi, F Eljack, M Amanullah, A AlNouss, V Kazantzi. Journal: Computers & Chemical Engineering, 117, 191-208. Year: 2018.
+
+- Integrated data (i-data), mining and utilization approach for effective flare management strategies. Authors: A AlNouss, MK Kazi, F Mohammed, F Eljack. Journal: Industrial & Engineering Chemistry Research, 56(10), 2789-2803. Year: 2017.
+
+- A techno-economic review of gas flaring in Iran and its human and environmental impacts. Authors: M Shahab-Deljoo, B Medi, MK Kazi, M Jafari. Journal: Process Safety and Environmental Protection, 173, 642-665. Year: 2023.
+
+- Characterization of Industrial Flaring under Uncertainty for the Design of Optimum Flare Recovery and Utilization Systems. Authors: MK Kazi, F Eljack, SA Al-Sobhi, V Kazantzi, N Kazantzis. Venue: Computer Aided Chemical Engineering, 49, 787-792. Year: 2022.
+
+- Process Dynamic Analysis and Control Strategy for COGEN option Used for Flare Utilization. Authors: MK Kazi, F Eljack, SA Al-Sobhi, N Kazantzis, V Kazantzi. Venue: Computer Aided Chemical Engineering, 46, 1255-1260. Year: 2019.
+
+- Managing uncertain industrial flares during abnormal process operations using an integrated optimization and Monte Carlo simulation approach. Authors: MK Kazi, F Eljack, V Kazantzi. Venue: Computer Aided Chemical Engineering, 40, 2425-2430. Year: 2017.
+
+- Process systems engineering for transforming industrial flares into a source of energy by managing uncertain abnormal situations. Author: MK Kazi. Venue: AIChE. Year: 2017.
+
+- Environmental sustainability through process integration, control and optimization. Author: MK Kazi. Venue: AIChE. Year: 2016.
+
+- Energy integration alternatives for effective use of waste heat associated with flaring during abnormal situation. Authors: MK Kazi, F Eljack. Venue: AIChE. Year: 2015.
+
+- Sustainable approaches for abnormal situation management for an ethylene process plant. Authors: MK Kazi, F Eljack. Venue: American Institute of Chemical Engineers. Year: 2015.
+
+5. Process Safety and Inherently Safer Design
+
+Dr. Khoda has published on process safety, abnormal situation management, inherently safer design, property-based risk quantification, and integration of safety considerations into process synthesis and operation.
+
+Representative publications include:
+
+- Process safety and abnormal situation management. Authors: F Eljack, MK Kazi. Journal: Current Opinion in Chemical Engineering, 14, 35-41. Year: 2016.
+
+- Inherently safer design tool (i-SDT): A property-based risk quantification metric for inherently safer design during the early stage of process synthesis. Authors: F Eljack, MK Kazi, V Kazantzi. Journal: Journal of Loss Prevention in the Process Industries, 57, 280-290. Year: 2019.
+
+- Application of i-SDT for safer flare management operation. Authors: MK Kazi, F Eljack, SA Al-Sobhi, N Kazantzis, V Kazantzi. Journal: Process Safety and Environmental Protection, 132, 249-264. Year: 2019.
+
+- A pinch analysis approach to environmental risk management in industrial solvent selection. Authors: V Kazantzi, MK Kazi, F Eljack, MM El-Halwagi, N Kazantzis. Journal: Clean Technologies and Environmental Policy, 21(2), 351-366. Year: 2019.
+
+- Probabilistic, data-driven, property-based Inherently Safer Design Tool (i-SDT). Authors: F Eljack, MK Kazi. Book/Series: Methods in Chemical Process Safety, 8, 333-382. Year: 2024.
+
+- Application of Inherently Safer Design Tool (i-SDT) for Hazards Assessment and Safer Operation. Authors: K Khoda, F Eljack, A AlNouss. Venue: 2019 Spring Meeting and 15th Global Congress on Process Safety. Year: 2019.
+
+- Application of a Property-Based Inherent Safety Quantification Framework for Integrating Risk Assessment into Process Safety Life Cycle. Authors: K Khoda, F Eljack, A AlNouss. Venue: 2018 Spring Meeting and 14th Global Congress on Process Safety. Year: 2018.
+
+- How to Leverage Limited Design Data Along with Historical Incident Data to Assess Inherent Process Safety During Early Stage of Design? Authors: F Eljack, K Khoda, A AlNouss. Venue: 2017 Spring Meeting and 13th Global Congress on Process Safety. Year: 2017.
+
+6. Composite Materials, Crashworthiness, Smart Manufacturing, and Data-Driven Design
+
+Dr. Khoda’s publication record includes a strong body of work on composite materials, crashworthiness, artificial neural networks, random forest classification, and data-driven material design for smart manufacturing and Industry 4.0.
+
+Representative publications include:
+
+- Predictive ANN models for varying filler content for cotton fiber/PVC composites based on experimental load displacement curves. Authors: MK Kazi, F Eljack, E Mahdi. Journal: Composite Structures, 254, 112885. Year: 2020.
+
+- Optimal filler content for cotton fiber/PP composite based on mechanical properties using artificial neural network. Authors: MK Kazi, F Eljack, E Mahdi. Journal: Composite Structures, 251, 112654. Year: 2020.
+
+- Data-driven modeling to predict the load vs. displacement curves of targeted composite materials for industry 4.0 and smart manufacturing. Authors: MK Kazi, F Eljack, E Mahdi. Journal: Composite Structures, 258, 113207. Year: 2021.
+
+- Design of composite rectangular tubes for optimum crashworthiness performance via experimental and ANN techniques. Authors: MK Kazi, F Eljack, E Mahdi. Journal: Composite Structures, 279, 114858. Year: 2022.
+
+- Crashworthiness optimization of composite hexagonal ring system using random forest classification and artificial neural network. Authors: MK Kazi, E Mahdi. Journal: Composites Part C: Open Access, 13, 100440. Year: 2024.
+
+- Optimizing Crashworthiness of Hexagonal Composite Rings Using Inverse Physics-Informed Neural Networks. Authors: K Khoda, F Eljack, EM Ahmed. Venue: 2024 AIChE Annual Meeting. Year: 2024.
+
+- Physics-Informed Inverse Design of Hexagonal Composite and Aluminium Structures for Crashworthiness Optimization. Authors: N Sarker, MK Kazi. Venue: 2025 AIChE Annual Meeting. Year: 2025.
+
+- Physics-Informed Neural Networks with Sparse System Identification and Bayesian Optimization for Data-Efficient Inverse Design of Hexagonal Composite and Alloy Rings. Authors: N Sarker, E Mahdi, MK Kazi. Available at SSRN 5616568.
+
+7. Blockchain, Game Theory, Carbon Trading, and Supply Chain Digitalization
+
+Dr. Khoda’s recent work includes blockchain-enabled carbon trading, peer-to-peer emission trading, game-theoretic decision-making, resilient supply chains, decentralized industrial ecosystems, and social life cycle assessment.
+
+Representative publications and presentations include:
+
+- Optimal and secure peer-to-peer carbon emission trading: A game theory informed framework on blockchain. Authors: MK Kazi, MMF Hasan. Journal: Computers & Chemical Engineering, 180, 108478. Year: 2024.
+
+- Carbon emission trading on the blockchain: A game-theoretic framework. Authors: MK Kazi, MF Hasan. Year: 2023.
+
+- A Game-Theoretic Approach for Peer-to-Peer Carbon Emission Trading on the Blockchain. Authors: K Khoda, F Hasan. Venue: 2023 AIChE Annual Meeting. Year: 2023.
+
+- Game Theory-Informed Blockchain Framework for Social Life Cycle Assessment: Enhancing Sustainability in Germanium Extraction from PV Scrap. Authors: M Mannan, S Al-Ghamdi, K Khoda. Venue: 2024 AIChE Annual Meeting. Year: 2024.
+
+- Predictive Resilience and Equitable Risk Assessment in Supply Chains Via Consensus-Driven Inverse Neural Network on Interoperable Blockchains. Author: K Khoda. Venue: 2024 AIChE Annual Meeting. Year: 2024.
+
+- AI-Driven Risk-Aware Blockchain for Shared and Toll Manufacturing Under Uncertainty: A Tokenized Cooperative Framework for Decentralized Industrial Ecosystems. Author: MK Kazi. Venue: 2025 AIChE Annual Meeting. Year: 2025.
+
+8. Socially Responsible Process Safety and Social Life Cycle Assessment
+
+Dr. Khoda’s recent scholarship connects process safety, social life cycle assessment, game theory, and equitable decision-making. This work expands process safety from a purely technical risk domain toward a socio-technical decision framework.
+
+Representative publications and presentations include:
+
+- Socially Responsible Process Safety: Game Theory-Informed Social Life Cycle Assessment for Equitable Decision-Making. Authors: M Mannan, N Sarkar, S Al-Ghamdi, F Eljack, MK Kazi. Venue: 2025 Spring Meeting and 21st Global Congress on Process Safety. Year: 2025.
+
+- Equitable, Sustainable, and Safer Process Design: Game Theory-Informed Social Life Cycle Assessment for Safety Governance. Authors: N Sarker, MK Kazi. Venue: 2025 AIChE Annual Meeting. Year: 2025.
+
+- A Socio-Technical Framework for Process Safety Optimization: Integrating Inherently Safer Design, Social Life Cycle Assessment, and Game Theory. Authors: N Sarker, MK Kazi. Proceedings of the South Dakota Academy of Science, 104. Year: 2025.
+
+9. PFAS Remediation and Physics-Based Modeling of 2D Materials
+
+Dr. Khoda’s recent work includes physics-based modeling and AI-assisted materials discovery for PFAS remediation, with emphasis on 2D materials and hybrid mechanistic/data-driven approaches.
+
+Representative publications and presentations include:
+
+- Advancing PFAS remediation through Physics-Based modeling of 2D materials: recent progress, challenges, and opportunities. Authors: MK Kazi, S Varghese, N Sarker, N Aich, V Gadhamshetty. Journal: Industrial & Engineering Chemistry Research, 64(4), 1894-1906. Year: 2025.
+
+- Physics-Informed Neural Networks for Accelerating PFAS Sorbent Discovery: A Hybrid Mechanistic–Data Driven Approach. Authors: N Sarker, MK Kazi. Venue: 2025 AIChE Annual Meeting. Year: 2025.
+
+10. Ionic Liquids, Property Prediction, and Data-Driven Molecular Design
+
+Dr. Khoda has contributed to deep learning and group contribution methods for targeted design and property prediction of ionic liquids, especially for energy and carbon capture applications.
+
+Representative publications include:
+
+- Development of a deep learning-based group contribution framework for targeted design of ionic liquids. Authors: S Mohammed, F Eljack, MK Kazi, M Atilhan. Journal: Computers & Chemical Engineering, 186, 108715. Year: 2024.
+
+- Development of deep learning framework to predict physicochemical properties for Ionic liquids. Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi. Venue: Computer Aided Chemical Engineering, 52, 2119-2124. Year: 2023.
+
+- Simulation and 3E assessment of pre-combustion CO2 capture process using novel Ionic liquids for blue H2 production. Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi. Venue: Computer Aided Chemical Engineering, 53, 517-522. Year: 2024.
+
+11. Water Treatment, Cooling Water Blowdown, and Water Capture
+
+Dr. Khoda has worked on water treatment, cooling water blowdown management, and water capture technologies linked to power generation and industrial systems.
+
+Representative publications include:
+
+- Treatment technologies for cooling water blowdown: a critical review. Authors: M Soliman, F Eljack, MK Kazi, F Almomani, E Ahmed, Z El Jack. Journal: Sustainability, 14(1), 376. Year: 2021.
+
+- Synthesis of water capture technologies for gas fired power plants in Qatar. Authors: AT Yasir, F Eljack, MK Kazi. Journal: Chemical Engineering Research and Design, 154, 171-181. Year: 2020.
+
+- Impact of Cool Water Blowdown from District Cooling on Surface Water Using Water Quality Analysis Simulation Program (WASP 8). Authors: S Mohammed, M Soliman, K Khoda, F Eljack, F Almomani, E Moqble, and coauthors. Venue: 2022 Spring Meeting & 18th Global Congress on Process Safety. Year: 2022.
+
+- Technical Review: Suitable Conventional and Emerging Water Treatment Systems for CWBD Management. Authors: M Soliman, F Eljack, K Khoda, F Almomani, E Ahmed, Z El Jack. Venue: 2021 Spring Meeting & 17th Global Congress on Process Safety. Year: 2021.
+
+12. Quantum Computing, Optimization, and Emerging Computational Methods
+
+Dr. Khoda’s recent work includes quantum computing and quantum-enhanced or quantum-inspired optimization for process systems and blockchain applications.
+
+Representative publications and presentations include:
+
+- Mixed-integer quadratic optimization using quantum computing for process applications. Authors: A Iftakher, MK Kazi, MMF Hasan. Venue: Proceedings of the Foundations of Computer Aided Process Operations/Chemical Process Control. Year: 2023.
+
+- Solving Mixed-Integer Linear and Quadratic Programs Using Quantum Computing. Authors: A Iftakher, K Khoda, F Hasan. Venue: 2023 AIChE Annual Meeting. Year: 2023.
+
+- Quantum-Enhanced Next-Generation Blockchain Consensus Protocol for Energy Efficiency and Climate Sustainability. Author: K Khoda. Venue: 2024 AIChE Annual Meeting. Year: 2024.
+
+13. Process Control, Reinforcement Learning, and Energy Systems Optimization
+
+Dr. Khoda’s recent work includes process control, reinforcement learning, price prediction, optimization, and energy system operation.
+
+Representative publications and presentations include:
+
+- Bollinger Band-Guided, Event-Driven Reinforcement Learning Control of Multivariable Process Systems Under Uncertainty. Author: MK Kazi. Venue: 2025 AIChE Annual Meeting.
+
+- Integrating Price Predictions with Optimization Framework for Cost-Effective Industrial Electrification. Authors: M Li, K Khoda, F Hasan. Venue: 2023 AIChE Annual Meeting. Year: 2023.
+
+- 10B: Modeling, Control, and Optimization of Energy Systems. Authors: M Ellis, K Khoda, X Ye, KK Rangan. Venue: 2025 AIChE Annual Meeting.
+
+- 10C: Planning and Operation of Energy Systems. Authors: J Pulsipher, ADCM Lopez, J Na, K Khoda. Venue: 2024 AIChE Annual Meeting.
+
+14. Chromatographic Separation and Earlier Process Optimization Work
+
+Dr. Khoda’s earlier publication record includes chromatographic separation, optimal control, inverse methods, adsorption isotherm determination, and separation process optimization.
+
+Representative publications include:
+
+- Optimization of an improved single-column chromatographic process for the separation of enantiomers. Authors: MK Kazi, B Medi, M Amanullah. Journal: Journal of Chromatography A, 1231, 22-30. Year: 2012.
+
+- Experimental implementation of optimal control of an improved single-column chromatographic process for the separation of enantiomers. Authors: B Medi, K Monzure-Khoda, M Amanullah. Journal: Industrial & Engineering Chemistry Research, 54(25), 6527-6539. Year: 2015.
+
+- Nonlinear direct inverse method: a shortcut method for simultaneous calibration and isotherm determination. Authors: B Medi, MK Kazi, M Amanullah. Journal: Adsorption, 19(5), 1007-1018. Year: 2013.
+
+- Design and Fabrication of an Improved Single-Column Chromatographic Separation Process. Authors: B Medi, MK Kazi. Journal: Iranian Journal of Chemical Engineering, 15(4), 81-92. Year: 2018.
+
+- Optimal performance of single-column chromatography and simulated moving bed processes for the separation of optical isomers. Authors: B Medi, MK Kazi, M Amanullah. Venue: IOP Conference Series: Materials Science and Engineering, 46(1), 012021. Year: 2013.
+
+15. Representative High-Impact and Highly Cited Works
+
+The following works are among the more visible and highly cited items in the provided Google Scholar list:
+
+- Green hydrogen for industrial sector decarbonization: Costs and impacts on hydrogen economy in Qatar. Computers & Chemical Engineering, 2021.
+
+- Machine learning based photovoltaics power prediction using different environmental parameters of Qatar. Energies, 2019.
+
+- Prospects and challenges of green hydrogen economy via multi-sector global symbiosis in Qatar. Frontiers in Sustainability, 2021.
+
+- Challenges and opportunities in carbon capture, utilization and storage: A process systems engineering perspective. Computers & Chemical Engineering, 2022.
+
+- Status of renewable energy in the GCC region and future opportunities. Current Opinion in Chemical Engineering, 2021.
+
+- Predictive ANN models for varying filler content for cotton fiber/PVC composites based on experimental load displacement curves. Composite Structures, 2020.
+
+- A systematic review: The role of emerging carbon capture and conversion technologies for energy transition to clean hydrogen. Journal of Cleaner Production, 2024.
+
+- Optimal filler content for cotton fiber/PP composite based on mechanical properties using artificial neural network. Composite Structures, 2020.
+
+- Data-driven modeling to predict the load vs. displacement curves of targeted composite materials for Industry 4.0 and smart manufacturing. Composite Structures, 2021.
+
+- A techno-economic review of gas flaring in Iran and its human and environmental impacts. Process Safety and Environmental Protection, 2023.
+
+16. How Ask PRODIGI AI Should Use This Publication Knowledge Base
+
+Ask PRODIGI AI should use this publication file to answer questions about Dr. Khoda’s research record, scholarly themes, representative publications, and technical expertise.
+
+The assistant may summarize publication themes, identify representative works, and explain how different papers connect to broader research areas such as hydrogen economy, CCUS, process safety, flare management, AI/ML, composites, blockchain/game theory, and process systems engineering.
+
+The assistant should not invent publication details, journal names, citation counts, coauthors, publication years, or publication status. If the user asks for the most current citation count, complete publication list, DOI, or official bibliographic record, the assistant should say that the current knowledge base may not be fully up to date and recommend checking Dr. Khoda’s official Google Scholar, institutional profile, ORCID, or personal website.
+
+The assistant should distinguish between peer-reviewed journal articles, conference papers, conference presentations, book chapters, proceedings, preprints, and ongoing manuscripts when that information is available. If the status is unclear, it should avoid overstating the publication type.
+
+The assistant should not claim that conference presentations or manuscripts are peer-reviewed journal articles unless the knowledge base clearly states that they are.
+
+The assistant should treat this file as a curated scholarly summary for public communication and research navigation, not as a complete official CV.

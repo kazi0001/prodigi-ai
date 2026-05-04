@@ -1,0 +1,73 @@
+PRODIGI Research Areas
+
+The PRODIGI Research Group works at the intersection of chemical engineering, process systems engineering, artificial intelligence, optimization, control, sustainability, and resilient industrial systems. The group develops computational and decision-support frameworks for chemical, energy, manufacturing, and supply chain applications.
+
+1. Sustainable Process Systems Engineering
+
+PRODIGI develops methods for sustainable process design, process integration, optimization, and control. The group studies how chemical and energy systems can be designed and operated with improved efficiency, lower emissions, better resource utilization, and stronger resilience.
+
+This area includes process simulation, techno-economic analysis, life cycle assessment, multi-objective optimization, process integration, and decision-making under uncertainty. Applications include hydrogen production, carbon capture, clean energy transitions, critical mineral processing, and sustainable manufacturing.
+
+2. Hybrid Mechanistic and Data-Driven Modeling
+
+A central focus of PRODIGI is the development of hybrid models that combine first-principles engineering equations with machine learning. These models use physical laws, process constraints, simulation data, experimental data, and operational data to improve prediction and decision-making.
+
+Hybrid modeling is useful when purely mechanistic models are too complex, expensive, or incomplete, and purely data-driven models are unreliable or difficult to interpret. PRODIGI develops methods that integrate mass balances, energy balances, thermodynamics, reaction kinetics, transport phenomena, and process constraints into machine learning workflows.
+
+3. Physics-Informed Machine Learning
+
+PRODIGI develops physics-informed and physics-regulated machine learning methods for chemical engineering systems. These methods may include physics-informed neural networks, inverse physics-informed neural networks, constraint-aware surrogate models, and engineering-guided loss functions.
+
+The goal is to make machine learning models more reliable, interpretable, and physically meaningful. Applications include process monitoring, dynamic modeling, anomaly detection, cyberattack detection, inverse design, process optimization, control, and safety analysis.
+
+4. Process Optimization and Control
+
+The group works on optimization and control of chemical and energy systems under uncertainty. This includes model predictive control, reinforcement learning-based control, PID tuning, dynamic optimization, robust optimization, and data-driven control.
+
+PRODIGI is interested in developing control strategies that combine mechanistic models, machine learning, uncertainty quantification, and operational constraints. Applications include reactors, distillation columns, heat exchangers, hydrogen systems, carbon capture processes, and cyber-physical process systems.
+
+5. Digital Twins and Cyber-Physical Systems
+
+PRODIGI studies digital twins for chemical and energy systems. A digital twin is a computational representation of a physical system that can support monitoring, prediction, optimization, control, and decision-making.
+
+The group is interested in physics-informed digital twins that combine process simulation, sensor data, machine learning, and control logic. These systems can support safer operation, anomaly detection, predictive maintenance, cyberattack detection, and autonomous decision support.
+
+6. Agentic AI and Retrieval-Grounded Engineering Assistants
+
+PRODIGI investigates how agentic artificial intelligence and retrieval-grounded AI systems can support engineering research, education, and industrial decision-making. These systems use verified knowledge bases, structured tools, and engineering constraints to produce more reliable answers and actions.
+
+Ask PRODIGI AI is an example of a retrieval-grounded assistant designed to answer questions using approved research-group information. The broader research direction includes physics-informed retrieval, tool-augmented LLMs, fail-closed engineering agents, and AI assistants that can support process design, simulation, literature review, teaching, and decision support.
+
+7. Blockchain, Game Theory, and Resilient Supply Chains
+
+The group develops blockchain-enabled and game-theoretic frameworks for resilient, transparent, and equitable supply chains. These methods can support traceability, decentralized governance, smart contracts, shared risk analysis, and transparent decision-making across multiple stakeholders.
+
+Applications include clean energy supply chains, hydrogen networks, carbon management, circular economy systems, shared manufacturing, toll manufacturing, and socially responsible process safety. PRODIGI is interested in how blockchain, game theory, and AI can support trustworthy coordination in complex industrial networks.
+
+8. Hydrogen, Carbon Capture, and Clean Energy Systems
+
+PRODIGI works on computational frameworks for hydrogen production, hydrogen supply chains, carbon capture, utilization, and storage, and clean energy transitions. This includes process simulation, techno-economic analysis, life cycle assessment, optimization, infrastructure planning, and decision-making under uncertainty.
+
+The group is interested in low-carbon hydrogen pathways, methane pyrolysis, carbon capture processes, clean energy hub planning, and multi-sectoral decarbonization.
+
+9. Critical Minerals and Resource Recovery
+
+PRODIGI is interested in AI-assisted and physics-informed decision support for critical mineral processing and resource recovery. This includes route screening, process-response modeling, uncertainty-aware experimental design, and sustainable processing of unconventional feedstocks.
+
+The group aims to combine chemical engineering principles, process modeling, machine learning, and optimization to accelerate the identification of feasible extraction and separation pathways.
+
+10. Smart Manufacturing and Additive Manufacturing
+
+The group studies data-driven and physics-informed approaches for smart manufacturing, additive manufacturing, and advanced material design. This includes inverse design, process-structure-property relationships, crashworthiness optimization, composite material design, and machine learning-guided manufacturing decisions.
+
+11. Process Safety and Industrial Risk Management
+
+PRODIGI develops computational frameworks for process safety, risk assessment, anomaly detection, and safer industrial operation. This includes physics-informed anomaly detection, cyberattack detection, flare management, safer process design, and decision-making under uncertainty.
+
+The group is interested in connecting process safety with AI, digital twins, social life cycle assessment, and governance-aware decision frameworks.
+
+12. Teaching and AI-Enabled Chemical Engineering Education
+
+Dr. Khoda integrates computational methods, artificial intelligence, process control, simulation, and data-driven modeling into chemical engineering teaching. The group is interested in developing educational tools that help students connect engineering fundamentals with modern computational workflows.
+
+This includes Python-based demonstrations, process control simulations, model predictive control examples, Aspen Plus and Aspen Dynamics integration, and AI-assisted learning tools for chemical engineering.

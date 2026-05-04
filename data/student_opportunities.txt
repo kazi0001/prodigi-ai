@@ -1,0 +1,57 @@
+Student Opportunities in PRODIGI Research Group
+
+The PRODIGI Research Group welcomes motivated students interested in chemical engineering, process systems engineering, artificial intelligence, optimization, control, sustainability, energy systems, digital twins, supply chains, and emerging computational tools for engineering applications.
+
+Students who are a strong fit for the group are usually interested in combining chemical engineering fundamentals with computational methods. This may include process modeling, simulation, machine learning, optimization, control, data analysis, programming, sustainability assessment, or cyber-physical systems.
+
+Potential research areas for students include:
+
+1. Hybrid Mechanistic and Data-Driven Modeling
+
+Students may work on models that combine engineering equations, process simulation, experimental data, and machine learning. These projects may involve physics-informed neural networks, surrogate modeling, constraint-aware machine learning, inverse design, or uncertainty quantification.
+
+2. Process Optimization and Control
+
+Students may work on optimization and control of chemical processes. Topics may include PID control, model predictive control, reinforcement learning control, dynamic optimization, robust optimization, and process monitoring.
+
+3. Hydrogen and Clean Energy Systems
+
+Students may work on hydrogen production, hydrogen supply chains, carbon capture, methane pyrolysis, process integration, techno-economic analysis, and life cycle assessment for clean energy systems.
+
+4. Digital Twins and Industrial AI
+
+Students may work on digital twins for chemical and energy systems. These projects may include process simulation, real-time monitoring, anomaly detection, cyberattack detection, predictive modeling, and AI-enabled decision support.
+
+5. Blockchain and Resilient Supply Chains
+
+Students may work on blockchain-enabled supply chain systems, smart contracts, traceability, decentralized governance, game-theoretic coordination, and resilient clean energy or manufacturing networks.
+
+6. Critical Mineral Processing and Resource Recovery
+
+Students may work on AI-assisted process route screening, hybrid modeling, uncertainty-aware experimental planning, and sustainable processing of unconventional feedstocks for critical mineral recovery.
+
+7. Smart Manufacturing and Advanced Materials
+
+Students may work on additive manufacturing, composite material design, inverse design, crashworthiness optimization, and machine learning-guided structure-property prediction.
+
+8. AI for Chemical Engineering Education
+
+Students may contribute to AI-enabled teaching tools, process control demonstrations, simulation-based learning modules, and retrieval-grounded engineering assistants.
+
+Helpful student skills include Python programming, MATLAB, process simulation, Aspen Plus, Aspen Plus Dynamics, numerical methods, optimization, machine learning, statistics, process control, thermodynamics, transport phenomena, reaction engineering, and technical writing.
+
+Students do not need to know all of these tools before joining. Curiosity, discipline, willingness to learn, and strong engineering fundamentals are more important. However, students interested in computational projects should be willing to develop programming and mathematical modeling skills.
+
+Typical programming and computational tools used in the group may include Python, NumPy, pandas, scikit-learn, TensorFlow, PyTorch, Pyomo, MATLAB, Aspen Plus, Aspen Plus Dynamics, GAMS, Git, SQL databases, Supabase, and visualization libraries.
+
+Prospective PhD students should have strong interest in research and should be prepared to work on open-ended technical problems. Strong applicants usually show evidence of research motivation, analytical thinking, programming ability or willingness to learn, and alignment with the group’s research areas.
+
+Prospective MS students may work on computational modeling, simulation, optimization, data analysis, process control, or applied AI projects depending on available opportunities and project fit.
+
+Undergraduate students may contribute to literature review, data preparation, simulation, Python coding, visualization, process modeling, and early-stage research tasks. Undergraduate research projects are designed to build technical confidence and research exposure.
+
+High school students and early-stage students may participate in carefully scoped projects involving literature review, basic data analysis, machine learning demonstrations, sustainability topics, and poster preparation when appropriate.
+
+Students interested in joining the group should review the research areas, identify one or two topics that match their interests, and contact Dr. Khoda with a concise message. A useful email should include the student’s background, degree goal, research interests, relevant skills, and why the student is interested in PRODIGI.
+
+Ask PRODIGI AI can provide general guidance about student fit and research themes. It cannot promise admission, funding, assistantships, projects, authorship, employment, or supervision. Official decisions must come directly from Dr. Khoda and the relevant academic department or university process.
