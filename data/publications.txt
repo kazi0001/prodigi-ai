@@ -1,3 +1,38 @@
+Publication Summary by Research Area
+
+Dr. Khoda’s publication record can be organized into several major research clusters:
+
+1. Hydrogen economy and clean energy systems
+This cluster includes publications on green hydrogen, hydrogen economy planning, industrial and maritime decarbonization, hydrogen supply chains, process-network design, and clean energy transition. Representative works include the 2021 Computers & Chemical Engineering article on green hydrogen for industrial sector decarbonization in Qatar, the 2021 Frontiers in Sustainability article on multi-sector green hydrogen symbiosis, and the 2022 Industrial & Engineering Chemistry Research article combining multiobjective optimization and RNN-LSTM analysis for green hydrogen economy assessment.
+
+2. Carbon capture, utilization, storage, and carbon management
+This cluster includes work on CCUS from a process systems engineering perspective, emerging carbon capture and conversion technologies, pre-combustion CO2 capture, ionic liquids for blue hydrogen, and 3E assessment. Representative works include the 2022 Computers & Chemical Engineering article on CCUS challenges and opportunities, the 2024 Journal of Cleaner Production review on carbon capture and conversion for clean hydrogen, and the 2024 Computers & Chemical Engineering article on deep learning-based group contribution for ionic liquid design.
+
+3. Process safety, flare management, and abnormal situation management
+This cluster includes work on industrial flare management, process integration, abnormal operation, uncertainty management, inherently safer design, property-based risk quantification, flare recovery, and environmental risk management. Representative works include publications in Industrial & Engineering Chemistry Research, Computers & Chemical Engineering, Process Safety and Environmental Protection, Current Opinion in Chemical Engineering, and Journal of Loss Prevention in the Process Industries.
+
+4. Hybrid data-driven modeling, AI, and smart manufacturing
+This cluster includes artificial neural network modeling, random forest classification, inverse design, physics-informed neural networks, crashworthiness optimization, composite materials, and smart manufacturing. Representative works include multiple Composite Structures papers on ANN-based prediction and optimization of composite materials, the 2024 Composites Part C article on crashworthiness optimization, and recent AIChE/SSRN work on inverse physics-informed design of composite and alloy rings.
+
+5. Blockchain, game theory, and resilient supply chains
+This cluster includes peer-to-peer carbon emission trading, blockchain-enabled carbon markets, game-theoretic decision-making, social life cycle assessment, shared and toll manufacturing, and decentralized industrial ecosystems. Representative work includes the 2024 Computers & Chemical Engineering article on optimal and secure peer-to-peer carbon emission trading using a game theory-informed blockchain framework.
+
+6. PFAS remediation and 2D materials
+This cluster includes physics-based modeling of 2D materials for PFAS remediation and hybrid mechanistic/data-driven approaches for sorbent discovery. Representative work includes the 2025 Industrial & Engineering Chemistry Research article on PFAS remediation through physics-based modeling of 2D materials.
+
+7. Ionic liquids and molecular property prediction
+This cluster includes deep learning and group contribution methods for ionic liquid property prediction and targeted molecular design, especially for carbon capture and blue hydrogen applications.
+
+8. Quantum computing, optimization, and emerging computational methods
+This cluster includes mixed-integer optimization using quantum computing, quantum-enhanced blockchain consensus, and quantum or quantum-inspired methods for process systems applications.
+
+9. Process control, reinforcement learning, and energy systems optimization
+This cluster includes model-based and data-driven control, reinforcement learning, price prediction, energy system optimization, and event-driven control of multivariable process systems.
+
+10. Chromatographic separation and early process optimization
+This cluster includes enantiomer separation, single-column chromatography, simulated moving bed processes, optimal control, adsorption isotherm determination, and inverse methods.
+
+
 PRODIGI Publications and Scholarly Work
 
 This document summarizes Dr. Kazi Monzure Khoda’s scholarly work and publication themes for use in the Ask PRODIGI AI retrieval-grounded research assistant. It is intended to help visitors understand the major research directions, representative publications, and technical scope of the PRODIGI Research Group.
@@ -277,3 +312,218 @@ The assistant should distinguish between peer-reviewed journal articles, confere
 The assistant should not claim that conference presentations or manuscripts are peer-reviewed journal articles unless the knowledge base clearly states that they are.
 
 The assistant should treat this file as a curated scholarly summary for public communication and research navigation, not as a complete official CV.
+
+Selected Publication Records with Keywords
+
+Publication: Green hydrogen for industrial sector decarbonization: Costs and impacts on hydrogen economy in Qatar
+Authors: MK Kazi, F Eljack, MM El-Halwagi, M Haouari
+Venue: Computers & Chemical Engineering
+Year: 2021
+Volume/Article: 145, 107144
+Research area: Hydrogen economy; industrial decarbonization; process systems engineering; clean energy transition
+Methods: Techno-economic analysis; systems analysis; hydrogen economy modeling; process systems engineering
+Why it matters: This is a highly cited representative work on green hydrogen for industrial decarbonization and hydrogen economy planning.
+
+Publication: Machine learning based photovoltaics (PV) power prediction using different environmental parameters of Qatar
+Authors: A Khandakar, MEH Chowdhury, MK Kazi, K Benhmed, F Touati, and coauthors
+Venue: Energies
+Year: 2019
+Volume/Article: 12(14), 2782
+Research area: Renewable energy; photovoltaic power prediction; machine learning
+Methods: Machine learning; environmental data analysis; power prediction
+Why it matters: This work demonstrates Dr. Khoda’s contribution to machine learning-based renewable energy prediction.
+
+Publication: Prospects and challenges of green hydrogen economy via multi-sector global symbiosis in Qatar
+Authors: F Eljack, MK Kazi
+Venue: Frontiers in Sustainability
+Year: 2021
+Volume/Article: 1, 612762
+Research area: Green hydrogen; multi-sector decarbonization; industrial symbiosis
+Methods: Systems analysis; sustainability assessment; hydrogen economy planning
+Why it matters: This paper connects green hydrogen with multi-sector industrial symbiosis and sustainability.
+
+Publication: Challenges and opportunities in carbon capture, utilization and storage: A process systems engineering perspective
+Authors: MMF Hasan, MS Zantye, MK Kazi
+Venue: Computers & Chemical Engineering
+Year: 2022
+Volume/Article: 166, 107925
+Research area: CCUS; carbon management; process systems engineering
+Methods: Review and perspective; process systems analysis
+Why it matters: This is a major process systems engineering perspective on CCUS challenges and research opportunities.
+
+Publication: Status of renewable energy in the GCC region and future opportunities
+Authors: A Elrahmani, J Hannun, F Eljack, MK Kazi
+Venue: Current Opinion in Chemical Engineering
+Year: 2021
+Volume/Article: 31, 100664
+Research area: Renewable energy; GCC energy transition; sustainability
+Methods: Review; regional energy analysis
+Why it matters: This paper situates renewable energy opportunities within the GCC region.
+
+Publication: Predictive ANN models for varying filler content for cotton fiber/PVC composites based on experimental load displacement curves
+Authors: MK Kazi, F Eljack, E Mahdi
+Venue: Composite Structures
+Year: 2020
+Volume/Article: 254, 112885
+Research area: Composite materials; smart manufacturing; data-driven modeling
+Methods: Artificial neural networks; experimental data modeling; load-displacement prediction
+Why it matters: This work demonstrates AI-based prediction of mechanical response in composite materials.
+
+Publication: A systematic review: The role of emerging carbon capture and conversion technologies for energy transition to clean hydrogen
+Authors: S Mohammed, F Eljack, S Al-Sobhi, MK Kazi
+Venue: Journal of Cleaner Production
+Year: 2024
+Volume/Article: 447, 141506
+Research area: Carbon capture; carbon conversion; clean hydrogen; energy transition
+Methods: Systematic review; sustainability and technology assessment
+Why it matters: This recent review connects emerging carbon capture and conversion technologies with clean hydrogen pathways.
+
+Publication: Optimal filler content for cotton fiber/PP composite based on mechanical properties using artificial neural network
+Authors: MK Kazi, F Eljack, E Mahdi
+Venue: Composite Structures
+Year: 2020
+Volume/Article: 251, 112654
+Research area: Composite materials; AI-guided material design
+Methods: Artificial neural networks; mechanical property prediction; optimization
+Why it matters: This paper shows how ANN models can support composite material optimization.
+
+Publication: Data-driven modeling to predict the load vs. displacement curves of targeted composite materials for industry 4.0 and smart manufacturing
+Authors: MK Kazi, F Eljack, E Mahdi
+Venue: Composite Structures
+Year: 2021
+Volume/Article: 258, 113207
+Research area: Smart manufacturing; Industry 4.0; composite materials; data-driven modeling
+Methods: Data-driven modeling; machine learning; load-displacement prediction
+Why it matters: This paper connects composite material design with Industry 4.0 and smart manufacturing.
+
+Publication: A techno-economic review of gas flaring in Iran and its human and environmental impacts
+Authors: M Shahab-Deljoo, B Medi, MK Kazi, M Jafari
+Venue: Process Safety and Environmental Protection
+Year: 2023
+Volume/Pages: 173, 642-665
+Research area: Gas flaring; process safety; environmental impact; techno-economic review
+Methods: Techno-economic review; environmental and human impact analysis
+Why it matters: This paper extends Dr. Khoda’s flare management expertise into techno-economic and environmental impact assessment.
+
+Publication: Integration of energy and wastewater treatment alternatives with process facilities to manage industrial flares during normal and abnormal operations
+Authors: MK Kazi, F Eljack, NA Elsayed, MM El-Halwagi
+Venue: Industrial & Engineering Chemistry Research
+Year: 2016
+Volume/Pages: 55(7), 2020-2034
+Research area: Industrial flare management; process integration; wastewater treatment; abnormal operation
+Methods: Multiobjective optimization; process integration; flare management
+Why it matters: This work is a foundational contribution to integrating energy and wastewater treatment alternatives for flare management.
+
+Publication: Multi-objective optimization methodology to size cogeneration systems for managing flares from uncertain sources during abnormal process operations
+Authors: MK Kazi, F Mohammed, AMN AlNouss, F Eljack
+Venue: Computers & Chemical Engineering
+Year: 2015
+Volume/Pages: 76, 76-86
+Research area: Flare management; cogeneration; uncertainty; abnormal operation
+Methods: Multiobjective optimization; uncertainty-aware process design
+Why it matters: This paper demonstrates optimization-based design of cogeneration systems for uncertain flare sources.
+
+Publication: A process design approach to manage the uncertainty of industrial flaring during abnormal operations
+Authors: MK Kazi, F Eljack, M Amanullah, A AlNouss, V Kazantzi
+Venue: Computers & Chemical Engineering
+Year: 2018
+Volume/Pages: 117, 191-208
+Research area: Industrial flaring; uncertainty; process design; abnormal operation
+Methods: Process design under uncertainty; optimization; abnormal situation management
+Why it matters: This paper addresses uncertainty in flare management from a process systems engineering perspective.
+
+Publication: Process safety and abnormal situation management
+Authors: F Eljack, MK Kazi
+Venue: Current Opinion in Chemical Engineering
+Year: 2016
+Volume/Pages: 14, 35-41
+Research area: Process safety; abnormal situation management
+Methods: Review and perspective
+Why it matters: This publication connects process safety with abnormal situation management and systems-level decision-making.
+
+Publication: Inherently safer design tool (i-SDT): A property-based risk quantification metric for inherently safer design during the early stage of process synthesis
+Authors: F Eljack, MK Kazi, V Kazantzi
+Venue: Journal of Loss Prevention in the Process Industries
+Year: 2019
+Volume/Pages: 57, 280-290
+Research area: Inherently safer design; risk quantification; process safety
+Methods: Property-based risk metric; early-stage process synthesis
+Why it matters: This paper supports safety-informed process design at early design stages.
+
+Publication: Application of i-SDT for safer flare management operation
+Authors: MK Kazi, F Eljack, SA Al-Sobhi, N Kazantzis, V Kazantzi
+Venue: Process Safety and Environmental Protection
+Year: 2019
+Volume/Pages: 132, 249-264
+Research area: Flare management; inherently safer design; process safety
+Methods: i-SDT; property-based safety assessment
+Why it matters: This paper applies inherently safer design principles to flare management operation.
+
+Publication: Optimal and secure peer-to-peer carbon emission trading: A game theory informed framework on blockchain
+Authors: MK Kazi, MMF Hasan
+Venue: Computers & Chemical Engineering
+Year: 2024
+Volume/Article: 180, 108478
+Research area: Blockchain; carbon emission trading; game theory; supply chain digitalization
+Methods: Game theory; blockchain; peer-to-peer trading framework
+Why it matters: This paper demonstrates Dr. Khoda’s research direction in blockchain-enabled carbon trading and strategic decision-making.
+
+Publication: Advancing PFAS remediation through Physics-Based modeling of 2D materials: recent progress, challenges, and opportunities
+Authors: MK Kazi, S Varghese, N Sarker, N Aich, V Gadhamshetty
+Venue: Industrial & Engineering Chemistry Research
+Year: 2025
+Volume/Pages: 64(4), 1894-1906
+Research area: PFAS remediation; 2D materials; physics-based modeling; environmental engineering
+Methods: Physics-based modeling; review and perspective; materials screening
+Why it matters: This recent work connects environmental remediation, 2D materials, and physics-based modeling.
+
+Publication: Development of a deep learning-based group contribution framework for targeted design of ionic liquids
+Authors: S Mohammed, F Eljack, MK Kazi, M Atilhan
+Venue: Computers & Chemical Engineering
+Year: 2024
+Volume/Article: 186, 108715
+Research area: Ionic liquids; property prediction; molecular design; carbon capture
+Methods: Deep learning; group contribution; targeted molecular design
+Why it matters: This paper demonstrates AI-enabled molecular property prediction and design for ionic liquid applications.
+
+Publication: Crashworthiness optimization of composite hexagonal ring system using random forest classification and artificial neural network
+Authors: MK Kazi, E Mahdi
+Venue: Composites Part C: Open Access
+Year: 2024
+Volume/Article: 13, 100440
+Research area: Crashworthiness; composite structures; machine learning; inverse design
+Methods: Random forest classification; artificial neural network; optimization
+Why it matters: This paper connects machine learning and structural crashworthiness optimization.
+
+Publication: Optimization of an improved single-column chromatographic process for the separation of enantiomers
+Authors: MK Kazi, B Medi, M Amanullah
+Venue: Journal of Chromatography A
+Year: 2012
+Volume/Pages: 1231, 22-30
+Research area: Separation processes; chromatography; enantiomer separation
+Methods: Process optimization; chromatographic separation modeling
+Why it matters: This early work demonstrates Dr. Khoda’s foundation in process optimization and separation systems.
+
+Preferred Answer Patterns for Publication Questions
+
+If a user asks about Dr. Khoda’s publications in general, Ask PRODIGI AI should summarize the publication record across major research clusters: hydrogen economy, CCUS, flare management, process safety, AI/data-driven modeling, composites, blockchain/game theory, PFAS, ionic liquids, and quantum/process optimization.
+
+If a user asks for publications in a specific area, Ask PRODIGI AI should list 3 to 6 representative publications from that area with title, year, venue, and a short explanation of relevance.
+
+If a user asks for highly cited publications, Ask PRODIGI AI should identify representative high-impact works from the Google Scholar snapshot, while noting that citation counts may change over time.
+
+If a user asks for recent publications, Ask PRODIGI AI should prioritize works from 2023, 2024, and 2025.
+
+If a user asks whether Dr. Khoda has publications in AI or machine learning, Ask PRODIGI AI should mention work on photovoltaic power prediction, ANN-based composite design, data-driven smart manufacturing, deep learning-based ionic liquid design, random forest/ANN crashworthiness optimization, physics-informed inverse design, PFAS sorbent discovery, and retrieval-grounded/agentic AI research communication.
+
+If a user asks whether Dr. Khoda has publications in hydrogen and CCUS, Ask PRODIGI AI should mention green hydrogen economy, industrial decarbonization, multi-sector hydrogen symbiosis, clean hydrogen transition, CCUS process systems perspective, ionic liquids for blue hydrogen, and pre-combustion CO2 capture.
+
+If a user asks whether Dr. Khoda has publications in process safety, Ask PRODIGI AI should mention abnormal situation management, industrial flare management, inherently safer design, i-SDT, safer flare management, environmental risk management, and techno-economic analysis of gas flaring.
+
+If a user asks whether Dr. Khoda has publications in blockchain or game theory, Ask PRODIGI AI should mention peer-to-peer carbon emission trading, blockchain-enabled carbon trading, game-theoretic frameworks, social life cycle assessment, decentralized industrial ecosystems, and resilient supply chains.
+
+If a user asks for a complete publication list, DOI, or live citation metrics, Ask PRODIGI AI should say that the knowledge base provides a curated publication summary and recommend checking Dr. Khoda’s official Google Scholar, ORCID, institutional profile, or personal website for the most current bibliographic record.
+
+If a user asks about publication quality, Ask PRODIGI AI should avoid exaggerated claims and instead describe the technical contribution, venue, research area, and connection to the broader PRODIGI research agenda.
+
+If a user asks for papers relevant to prospective students, Ask PRODIGI AI should group publications by possible student entry points: hydrogen/CCUS, AI for chemical engineering, process safety, blockchain/game theory, PFAS/environmental remediation, composite materials, and process control.
