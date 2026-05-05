@@ -5,6 +5,7 @@ import {
     classifyProdigiIntent,
     getIntentGuidance,
 } from "@/lib/prodigi-router";
+import { logProdigiQuestion } from "@/lib/prodigi-logger";
 
 export const runtime = "nodejs";
 export const maxDuration = 30;
@@ -31,10 +32,12 @@ function extractTextFromMessage(message: any): string {
 }
 
 function getLatestUserText(body: any): string {
+    // AI SDK 5 usually sends the latest message as body.message
     if (body.message) {
         return extractTextFromMessage(body.message);
     }
 
+    // Some versions or clients may send all messages as body.messages
     if (Array.isArray(body.messages)) {
         const latestUserMessage = [...body.messages]
             .reverse()
@@ -46,14 +49,18 @@ function getLatestUserText(body: any): string {
     return "";
 }
 
-function buildSourceList(retrievedDocs: any[]) {
-    const sourceTitles = Array.from(
+function getSourceTitles(retrievedDocs: any[]): string[] {
+    return Array.from(
         new Set(
             retrievedDocs
                 .map((doc: any) => doc.source_title)
                 .filter(Boolean)
         )
     );
+}
+
+function buildSourceList(retrievedDocs: any[]): string {
+    const sourceTitles = getSourceTitles(retrievedDocs);
 
     if (sourceTitles.length === 0) {
         return "No source titles were retrieved.";
@@ -85,12 +92,22 @@ export async function POST(req: Request) {
 
         console.log("Retrieved docs:", retrievedDocs.length);
 
+        const sourceTitles = getSourceTitles(retrievedDocs);
         const sourceList = buildSourceList(retrievedDocs);
+
+        // Log the question for analytics. If logging fails, the chat should still work.
+        await logProdigiQuestion({
+            question: latestUserMessage,
+            intent,
+            retrievedSources: sourceTitles,
+            retrievedCount: retrievedDocs.length,
+        });
 
         const contextText = retrievedDocs
             .map(
                 (doc: any, index: number) =>
-                    `[Source ${index + 1}: ${doc.source_title || "Untitled Source"}]\n${doc.content}`
+                    `[Source ${index + 1}: ${doc.source_title || "Untitled Source"
+                    }]\n${doc.content}`
             )
             .join("\n\n");
 
