@@ -1,0 +1,109 @@
+Student FAQ for PRODIGI Research Group
+
+This document provides general guidance for students interested in the PRODIGI Research Group. It is intended for public-facing research navigation and should not be interpreted as an official admissions, funding, or hiring document.
+
+1. What type of students are a good fit for PRODIGI?
+
+Students who are a good fit for PRODIGI are usually interested in combining chemical engineering fundamentals with computational methods. Strong alignment areas include process systems engineering, process modeling, simulation, optimization, control, machine learning, physics-informed modeling, sustainability, clean energy, process safety, supply chains, blockchain, game theory, and digital twins.
+
+A strong student does not need to know every tool before joining. Curiosity, discipline, willingness to learn, mathematical maturity, and strong engineering fundamentals are more important. However, students interested in computational research should be willing to build programming, data analysis, modeling, and technical writing skills.
+
+2. What research areas can students work on?
+
+Potential student research areas include:
+- Hybrid mechanistic and data-driven modeling.
+- Physics-informed machine learning.
+- Process optimization and control.
+- Hydrogen economy and clean energy systems.
+- Carbon capture, utilization, and storage.
+- Industrial flare management and process safety.
+- Blockchain-enabled resilient supply chains.
+- Game-theoretic decision-making.
+- Social life cycle assessment and equitable process safety.
+- PFAS remediation and 2D material modeling.
+- Critical mineral processing and resource recovery.
+- Smart manufacturing and composite material design.
+- Agentic AI and retrieval-grounded engineering assistants.
+- AI-enabled chemical engineering education.
+
+3. What skills are helpful for students?
+
+Helpful skills include:
+- Chemical engineering fundamentals.
+- Mass and energy balances.
+- Thermodynamics.
+- Transport phenomena.
+- Reaction engineering.
+- Process control.
+- Process simulation.
+- Mathematical modeling.
+- Numerical methods.
+- Optimization.
+- Statistics and data analysis.
+- Python or MATLAB programming.
+- Machine learning.
+- Technical writing.
+
+Useful tools may include Python, NumPy, pandas, scikit-learn, TensorFlow, PyTorch, Pyomo, MATLAB, Aspen Plus, Aspen Plus Dynamics, GAMS, Git, SQL databases, Supabase, and data visualization libraries.
+
+4. Do students need to know Python before joining?
+
+Python experience is very helpful but not always required. Students should be willing to learn Python if they want to work on computational modeling, machine learning, optimization, process control, or AI-enabled research. For many PRODIGI projects, Python is an important tool for data processing, modeling, simulation, optimization, visualization, and reproducibility.
+
+5. Do students need Aspen Plus or Aspen Dynamics experience?
+
+Aspen Plus or Aspen Dynamics experience is helpful for students interested in process simulation, dynamic modeling, process control, hydrogen systems, carbon capture, or process safety. Students without prior Aspen experience may still be a good fit if they have strong fundamentals and are willing to learn.
+
+6. What should a prospective PhD student include in an email?
+
+A strong email should be concise and specific. It should include:
+- Current degree and institution.
+- Research interests.
+- One or two PRODIGI research areas that match the student’s interests.
+- Relevant skills, such as Python, process simulation, optimization, machine learning, Aspen, MATLAB, or experimental experience.
+- Prior research experience, publications, thesis work, or projects if available.
+- Degree goal and intended start term.
+- CV or resume.
+- A short explanation of why the student is interested in working with Dr. Khoda.
+
+Students should avoid sending a generic email that could be sent to any faculty member. A focused email showing research alignment is more effective.
+
+7. Can Ask PRODIGI AI tell me whether I will be admitted?
+
+No. Ask PRODIGI AI cannot make admissions decisions. Admission depends on the university, department, application materials, program requirements, funding availability, and research fit. Students should apply through the official university process and contact Dr. Khoda directly when appropriate.
+
+8. Can Ask PRODIGI AI tell me whether funding is available?
+
+No. Funding availability changes over time and depends on active projects, grants, departmental policies, student qualifications, and timing. Ask PRODIGI AI cannot promise assistantships, fellowships, tuition support, stipends, or paid positions. Students should contact Dr. Khoda directly and follow official university procedures.
+
+9. Can MS students work with PRODIGI?
+
+MS students may be a good fit if their interests align with the group’s research themes. Possible MS-level projects may involve process modeling, simulation, data analysis, machine learning, optimization, process control, literature review, or computational framework development. Actual opportunities depend on timing, project needs, and academic requirements.
+
+10. Can undergraduate students work with PRODIGI?
+
+Undergraduate students may contribute to carefully scoped research tasks such as literature review, data preparation, Python coding, simulation, visualization, process modeling, sustainability analysis, or poster preparation. Undergraduate projects are typically designed to build research exposure and technical confidence.
+
+11. Can high school students work with PRODIGI?
+
+High school students may participate in carefully scoped projects when appropriate. These projects may involve basic machine learning demonstrations, sustainability topics, hydrogen production, literature review, data analysis, or poster development. The scope must be realistic and supervised.
+
+12. What makes a student successful in PRODIGI?
+
+Successful students are self-motivated, careful, honest about uncertainty, willing to learn new tools, and able to connect computation with engineering fundamentals. They document their work, write clearly, check assumptions, validate models, and ask focused questions. They are also willing to revise their work based on feedback.
+
+13. What type of research culture does PRODIGI aim to build?
+
+PRODIGI aims to build a technically rigorous, collaborative, reproducible, and student-centered research culture. The group values engineering fundamentals, computational quality, intellectual curiosity, professional communication, and responsible use of AI.
+
+14. Can students work on purely AI projects?
+
+Students may work on AI-focused projects, but the group’s emphasis is on AI for engineering systems. The preferred direction is not generic AI, but AI grounded in process systems engineering, physical constraints, sustainability, optimization, control, safety, materials, energy, or supply chains.
+
+15. Can students work on experimental projects?
+
+PRODIGI is primarily computational and process-systems-oriented, but the group can collaborate with experimental researchers. Students may work on projects that use experimental data to build predictive models, optimize systems, design experiments, or develop hybrid mechanistic/data-driven frameworks.
+
+16. What is the best first step for a student?
+
+The best first step is to review the group’s research areas, identify one or two specific topics of interest, prepare a concise CV, and contact Dr. Khoda with a focused research-fit email. Students should clearly explain why their interests align with PRODIGI.

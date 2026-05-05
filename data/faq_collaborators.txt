@@ -1,0 +1,128 @@
+Collaborator FAQ for PRODIGI Research Group
+
+This document provides general public-facing guidance for potential collaborators interested in the PRODIGI Research Group. It should not be interpreted as an official collaboration agreement, consulting agreement, funding commitment, or institutional statement.
+
+1. What types of collaborations fit PRODIGI?
+
+PRODIGI is well aligned with collaborations involving chemical engineering, process systems engineering, artificial intelligence, hybrid modeling, optimization, control, sustainability, clean energy, carbon management, process safety, supply chains, blockchain, game theory, digital twins, and computational decision support.
+
+Strong collaboration topics include:
+- Sustainable process design and optimization.
+- Hydrogen economy and clean energy systems.
+- Carbon capture, utilization, and storage.
+- Critical mineral processing and resource recovery.
+- Industrial flare management and process safety.
+- Hybrid mechanistic/data-driven modeling.
+- Physics-informed machine learning.
+- Digital twins and cyber-physical systems.
+- Blockchain-enabled traceability and governance.
+- Game-theoretic supply chain decision-making.
+- Social life cycle assessment.
+- Smart manufacturing and materials design.
+- AI-enabled engineering education.
+- Agentic AI and retrieval-grounded research assistants.
+
+2. What can PRODIGI contribute to a collaboration?
+
+PRODIGI can contribute expertise in:
+- Process modeling and simulation.
+- Process systems engineering.
+- Mathematical modeling.
+- Optimization and decision-making under uncertainty.
+- Hybrid mechanistic/data-driven modeling.
+- Physics-informed machine learning.
+- Techno-economic analysis.
+- Life cycle assessment.
+- Process control and dynamic systems.
+- Blockchain and smart-contract-based governance.
+- Game-theoretic modeling.
+- AI-assisted research workflows.
+- Retrieval-grounded engineering assistants.
+- Scientific writing and proposal development.
+
+3. What types of experimental collaborations are suitable?
+
+PRODIGI is well suited for collaborations where experimental data can be connected with computational modeling or decision support. Examples include catalyst data, materials characterization, adsorption data, membrane performance, process measurements, environmental remediation data, or manufacturing data.
+
+The group can help convert experimental information into predictive models, uncertainty-aware recommendations, design-space exploration tools, optimization frameworks, and publishable computational insights.
+
+4. What types of industry collaborations are suitable?
+
+Relevant industry problems include:
+- Process optimization.
+- Energy efficiency.
+- Emissions reduction.
+- Hydrogen and carbon management.
+- Flare recovery and utilization.
+- Digital twin development.
+- Process safety analytics.
+- Predictive monitoring.
+- Supply chain resilience.
+- Blockchain-enabled traceability.
+- AI-enabled decision support.
+- Smart manufacturing.
+- Data-driven process improvement.
+
+Industry collaborators should ideally provide a clear problem statement, available data description, expected timeline, and desired outcome.
+
+5. What types of academic collaborations are suitable?
+
+Academic collaborations may involve:
+- Joint manuscripts.
+- Joint proposals.
+- Co-advised students.
+- Computational framework development.
+- Experimental-data-driven modeling.
+- Process simulation and validation.
+- Sustainability assessment.
+- AI-enabled engineering tools.
+- Interdisciplinary research across chemical engineering, data science, environmental engineering, materials science, industrial engineering, and energy systems.
+
+6. Does PRODIGI collaborate on grant proposals?
+
+PRODIGI is open to proposal collaborations when the topic aligns with the group’s expertise and when the role is technically meaningful. Possible agencies and programs may include chemical engineering, energy, sustainability, AI, cyber-physical systems, supply chains, manufacturing, critical minerals, and process safety-focused calls.
+
+Ask PRODIGI AI cannot commit Dr. Khoda to a proposal. Potential collaborators should contact Dr. Khoda directly with a short concept summary, target agency, deadline, proposed role, and expected contribution.
+
+7. Does PRODIGI work with national laboratories?
+
+PRODIGI is interested in collaborations with national laboratories and research centers, especially in areas such as clean energy, carbon management, hydrogen, critical minerals, digital twins, process optimization, cyber-physical systems, process safety, and AI for engineering systems.
+
+8. Does PRODIGI work with industry partners?
+
+Yes, the group’s expertise can align with industry problems in process systems engineering, optimization, data-driven modeling, safety, sustainability, and digital transformation. Industry collaboration may involve research projects, student projects, technical workshops, data-driven analysis, modeling, or proposal partnerships.
+
+9. Does PRODIGI work on AI?
+
+Yes. PRODIGI works on AI for engineering systems, with emphasis on physics-informed, retrieval-grounded, explainable, and constraint-aware AI. The group is interested in AI systems that are technically reliable and useful for process design, optimization, control, simulation, research communication, and decision support.
+
+10. Does PRODIGI work on agentic AI?
+
+Yes. PRODIGI is interested in agentic AI systems for engineering applications. These systems may include intent-aware routing, retrieval-grounded knowledge access, tool use, source-aware responses, decision guardrails, and fail-closed behavior. The goal is to develop AI systems that can support engineering tasks while remaining grounded in verified information and physical constraints.
+
+11. Does PRODIGI work on blockchain?
+
+Yes. PRODIGI studies blockchain as a governance, traceability, and coordination layer for industrial systems. Relevant areas include carbon trading, supply chain resilience, smart contracts, shared manufacturing, toll manufacturing, circular economy systems, and social life cycle assessment.
+
+12. Does PRODIGI work on game theory?
+
+Yes. Game theory is used to model strategic behavior and coordination among multiple stakeholders in supply chains, carbon markets, hydrogen systems, shared manufacturing, and social decision-making. Both cooperative and non-cooperative perspectives may be relevant depending on the problem.
+
+13. How should a potential collaborator contact Dr. Khoda?
+
+A useful collaboration email should include:
+- A concise problem statement.
+- Why the topic aligns with PRODIGI.
+- Available data, models, experimental capabilities, or resources.
+- Expected collaboration type, such as manuscript, proposal, student project, or technical consultation.
+- Timeline and deadlines.
+- Proposed role for Dr. Khoda or PRODIGI.
+- Any draft concept note or summary.
+
+14. Can Ask PRODIGI AI start or approve a collaboration?
+
+No. Ask PRODIGI AI can help visitors understand research alignment and prepare better questions, but it cannot approve or initiate an official collaboration. All collaboration decisions must be made directly by Dr. Khoda and, where relevant, through university procedures.
+
+15. What is the best use of Ask PRODIGI AI for collaborators?
+
+Potential collaborators can use Ask PRODIGI AI to learn about PRODIGI’s research themes, identify relevant publications, understand technical expertise, and prepare a more focused collaboration inquiry before contacting Dr. Khoda.

@@ -1,0 +1,89 @@
+Current and Emerging PRODIGI Research Project Themes
+
+This document provides public-facing summaries of current and emerging project themes in the PRODIGI Research Group. These descriptions are intended for research navigation and collaboration discovery. They should not be interpreted as confidential proposal summaries, official funding commitments, or complete project records.
+
+1. Physics-Informed and Hybrid AI for Chemical Engineering Systems
+
+PRODIGI develops hybrid mechanistic and data-driven models for chemical engineering applications. These models combine first-principles engineering knowledge with machine learning to improve prediction, optimization, inverse design, control, and decision-making.
+
+Representative methods include physics-informed neural networks, inverse physics-informed neural networks, constraint-aware surrogate models, mechanistic residual learning, sparse system identification, uncertainty quantification, and Bayesian optimization. The group emphasizes models that respect mass balances, energy balances, thermodynamic feasibility, process constraints, and engineering safety limits.
+
+Potential applications include process monitoring, anomaly detection, process optimization, materials design, PFAS remediation, critical mineral processing, and digital twins.
+
+2. Retrieval-Grounded and Agentic AI for Engineering Research
+
+PRODIGI is developing retrieval-grounded AI assistants and agentic AI workflows for engineering research communication, decision support, and education. Ask PRODIGI AI is a public-facing demonstration of this direction.
+
+The broader research direction includes domain-specific knowledge bases, retrieval-augmented generation, tool-augmented LLMs, intent-aware query routing, source-aware answers, fail-closed decision behavior, and human-supervised AI systems. The goal is to develop AI tools that can assist with engineering reasoning while staying grounded in verified information.
+
+This work connects naturally to process systems engineering because engineering AI systems must respect physical constraints, provenance, safety, uncertainty, and decision accountability.
+
+3. Hydrogen Economy and Clean Energy Systems
+
+PRODIGI studies hydrogen economy planning, hydrogen supply chains, industrial decarbonization, and clean energy transition pathways. This work integrates process systems engineering, techno-economic analysis, life cycle assessment, optimization, and forecasting.
+
+Research questions include how hydrogen can support industrial and maritime decarbonization, how hydrogen infrastructure should be planned under uncertainty, and how process-network design can support local, regional, and global hydrogen demand.
+
+The group has prior scholarly work on green hydrogen for industrial sector decarbonization, multi-sector hydrogen symbiosis, hydrogen economy planning, and RNN-LSTM-supported hydrogen demand analysis.
+
+4. Carbon Capture, Utilization, Storage, and Blue Hydrogen
+
+PRODIGI works on carbon capture, utilization, and storage from a process systems engineering perspective. This includes carbon capture process evaluation, pre-combustion CO2 capture, ionic liquids for CO2 capture, carbon conversion technologies, blue hydrogen systems, and clean hydrogen transition pathways.
+
+The group is interested in connecting process simulation, molecular property prediction, techno-economic analysis, and life cycle assessment to evaluate carbon management technologies. AI-enabled ionic liquid design and process-level assessment are important components of this direction.
+
+5. Industrial Flare Management and Process Safety
+
+A major foundation of Dr. Khoda’s research is industrial flare management, abnormal situation management, inherently safer design, and process integration under uncertainty. This work focuses on transforming industrial flares from waste and risk sources into opportunities for energy recovery, emissions reduction, and safer operation.
+
+Research themes include flare characterization, multiobjective optimization, uncertainty-aware process design, cogeneration system sizing, energy integration, wastewater treatment integration, process safety metrics, and property-based risk quantification.
+
+This project area connects process safety, sustainability, process integration, optimization, and abnormal situation management.
+
+6. Blockchain, Game Theory, and Resilient Supply Chains
+
+PRODIGI develops blockchain-enabled and game-theoretic frameworks for resilient, transparent, and equitable industrial systems. This includes peer-to-peer carbon emission trading, supply chain digitalization, decentralized governance, smart contracts, tokenized shared manufacturing, and social life cycle assessment.
+
+The group treats blockchain as an auditability and coordination layer. Game theory is used to model strategic behavior among multiple stakeholders, such as producers, consumers, regulators, manufacturers, and supply-chain actors.
+
+Applications include carbon markets, hydrogen supply chains, circular economy systems, shared manufacturing, toll manufacturing, critical minerals, and sustainability governance.
+
+7. Socially Responsible Process Safety and Social Life Cycle Assessment
+
+PRODIGI is developing socio-technical frameworks that connect process safety, social life cycle assessment, game theory, and equitable decision-making. This direction expands process safety beyond technical hazard reduction and incorporates stakeholder impacts, fairness, labor concerns, community resilience, and governance.
+
+The goal is to support safer and more socially responsible process design, especially in systems where technical decisions have broader environmental and social consequences.
+
+8. PFAS Remediation and 2D Materials
+
+PRODIGI is interested in AI-assisted and physics-based modeling of 2D materials for PFAS remediation. This research direction connects environmental engineering, materials modeling, adsorption, electrochemical remediation, and hybrid mechanistic/data-driven approaches.
+
+Potential methods include physics-based screening, molecular descriptors, adsorption-informed features, machine learning, physics-informed neural networks, and uncertainty-aware materials discovery. The goal is to support faster and more rational discovery of materials for PFAS separation and destruction.
+
+9. Critical Mineral Processing and Resource Recovery
+
+PRODIGI is developing AI-assisted and physics-informed decision-support methods for critical mineral processing from unconventional feedstocks. This direction includes route screening, process-response modeling, chemistry-informed descriptors, uncertainty-aware experimental design, and sustainable extraction/separation pathways.
+
+Potential feedstocks may include biomass-derived residues, ash, waste streams, or other unconventional materials. The group is interested in tools that reduce screening burden and help researchers identify feasible extraction and processing routes more efficiently.
+
+10. Smart Manufacturing, Composite Materials, and Inverse Design
+
+PRODIGI develops data-driven and physics-informed methods for smart manufacturing, composite materials, crashworthiness optimization, and inverse design. Prior work includes ANN-based prediction of composite material behavior, random forest classification, crashworthiness optimization, and inverse design of hexagonal composite structures.
+
+This research direction connects artificial intelligence, mechanical response prediction, material selection, structure-property relationships, lightweight materials, and design optimization.
+
+11. Process Control, Reinforcement Learning, and Dynamic Optimization
+
+PRODIGI works on process control and dynamic decision-making for chemical engineering systems. Topics include PID control, model predictive control, reinforcement learning, event-driven control, dynamic modeling, optimization, and uncertainty-aware operation.
+
+The group is interested in demonstrating how modern AI and control methods can be taught and applied to chemical process systems such as reactors, distillation columns, heat exchangers, energy systems, and multivariable processes.
+
+12. AI-Enabled Chemical Engineering Education
+
+PRODIGI is interested in integrating artificial intelligence, machine learning, process simulation, and computational tools into chemical engineering education. This includes Python-based demonstrations, process control simulations, Aspen Plus and Aspen Dynamics examples, AI tutors, retrieval-grounded course assistants, and reproducible computational assignments.
+
+The teaching philosophy emphasizes engineering fundamentals, computational fluency, reproducibility, and responsible use of AI in technical education.
+
+Important Note
+
+This file provides public-facing summaries of current and emerging project themes. Project availability, student openings, funding, and collaboration commitments may change. Ask PRODIGI AI should not treat this file as a list of guaranteed open positions or funded projects.

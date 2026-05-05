@@ -1,0 +1,82 @@
+Teaching and Educational Activities
+
+Dr. Kazi Monzure Khoda’s teaching philosophy emphasizes rigor, relevance, and reflection. His approach integrates chemical engineering fundamentals with computational tools, process simulation, data-driven modeling, artificial intelligence, and reproducible technical workflows.
+
+The teaching goal is to help students connect theory with engineering practice. Students are encouraged to understand the physical meaning of equations, use computational tools responsibly, analyze real engineering systems, and communicate technical results clearly.
+
+1. Process Control
+
+Dr. Khoda teaches process control concepts relevant to chemical engineering and related engineering disciplines. Topics include dynamic modeling, open-loop and closed-loop systems, transfer functions, first-order and second-order systems, stability, Routh array analysis, PID control, controller tuning, feedforward control, cascade control, ratio control, selective control, auctioneering control, and model predictive control.
+
+Computational demonstrations may include Python-based simulations of chemical process dynamics, PID tuning, controller performance evaluation, disturbance rejection, setpoint tracking, model predictive control, and comparison between classical and advanced control strategies.
+
+Chemical engineering examples may include reactors, distillation columns, heat exchangers, separation systems, and other unit operations.
+
+2. Applied Engineering Mathematics
+
+Dr. Khoda teaches applied engineering mathematics with emphasis on mathematical tools used in chemical engineering and process systems research. Topics may include ordinary differential equations, partial differential equations, linear algebra, numerical methods, optimization, tensor concepts, and mathematical modeling.
+
+The course perspective connects mathematical theory with engineering applications such as transport phenomena, reaction engineering, process dynamics, control, and physics-informed machine learning.
+
+3. Seminar and Research Communication
+
+Dr. Khoda contributes to graduate seminar and research communication activities. Seminar-based learning emphasizes literature review, technical presentation, professional communication, research evaluation, and engagement with invited speakers.
+
+Students are encouraged to develop the ability to explain complex technical topics clearly, ask meaningful questions, and connect seminar content with their own research interests.
+
+4. AI and Data-Driven Chemical Engineering Education
+
+Dr. Khoda is interested in developing and teaching AI and data-driven chemical engineering content. This includes machine learning for chemical engineers, physics-informed machine learning, hybrid mechanistic/data-driven modeling, process data analytics, AI-assisted simulation, digital twins, and responsible use of AI in engineering.
+
+A key educational goal is to teach students how to use AI without weakening their understanding of chemical engineering fundamentals. AI tools should support learning, modeling, analysis, and communication, but students must still understand assumptions, equations, units, constraints, and physical meaning.
+
+5. Computational Tools in Teaching
+
+Dr. Khoda integrates computational tools into teaching and student projects. Tools may include:
+- Python.
+- MATLAB.
+- Aspen Plus.
+- Aspen Plus Dynamics.
+- Process simulation tools.
+- Optimization libraries.
+- Machine learning libraries.
+- Data visualization tools.
+- Version-controlled computational notebooks.
+
+These tools support reproducible learning and help students build practical skills for research and industry.
+
+6. Process Simulation and Aspen-Based Learning
+
+Process simulation is used to help students understand process design, steady-state behavior, dynamic behavior, control structure, and process integration. Aspen Plus and Aspen Dynamics may be used to connect thermodynamics, mass and energy balances, equipment models, process design, and control strategies.
+
+7. Responsible Use of AI in Engineering Education
+
+Dr. Khoda is interested in teaching students how to use AI responsibly. This includes understanding the limitations of generative AI, checking AI outputs against engineering fundamentals, avoiding unsupported claims, using citations and source verification, and maintaining academic integrity.
+
+Students should treat AI as a support tool, not as a replacement for engineering reasoning.
+
+8. Retrieval-Grounded AI Assistants for Education
+
+Ask PRODIGI AI is a public example of retrieval-grounded AI for research communication. Similar approaches can be adapted for education, such as course-specific AI tutors trained on approved course materials, homework guidance systems, and concept-review assistants.
+
+These educational assistants should be designed with clear guardrails, source grounding, and transparency about limitations.
+
+9. Teaching and Research Integration
+
+Dr. Khoda’s teaching is closely connected to his research. Examples from process control, hydrogen systems, carbon capture, process safety, digital twins, optimization, and AI-enabled modeling can be used to show students how classroom concepts appear in real engineering systems.
+
+10. Student Learning Priorities
+
+Students in Dr. Khoda’s courses are encouraged to:
+- Understand engineering fundamentals.
+- Practice mathematical modeling.
+- Use computational tools carefully.
+- Interpret results physically.
+- Communicate clearly.
+- Validate assumptions.
+- Work reproducibly.
+- Connect process systems thinking with sustainability, safety, and modern AI tools.
+
+Important Note
+
+Ask PRODIGI AI may provide general information about teaching themes and educational interests. It should not provide official course enrollment guidance, grading policy, university policy, or confidential student information. For official course information, students should consult the course syllabus, university systems, or Dr. Khoda directly.

@@ -1,0 +1,91 @@
+Contact and Links for PRODIGI Research Group
+
+This document provides general guidance on how visitors can connect with Dr. Kazi Monzure Khoda and the PRODIGI Research Group. It is intended for public-facing use by Ask PRODIGI AI.
+
+Primary Website
+
+The main website for the PRODIGI Research Group is:
+
+https://kprodigihub.com
+
+Visitors can use the website to learn about the research group, research themes, publications, projects, student opportunities, and collaboration areas.
+
+Ask PRODIGI AI
+
+Ask PRODIGI AI is available at:
+
+https://ask.kprodigihub.com
+
+Ask PRODIGI AI is a retrieval-grounded research assistant for questions about Dr. Khoda’s research group, research themes, publications, student opportunities, and collaboration areas. It is not a substitute for direct communication with Dr. Khoda.
+
+What Ask PRODIGI AI Can Help With
+
+Ask PRODIGI AI can help visitors:
+- Learn about PRODIGI research themes.
+- Identify representative publications.
+- Understand possible student research fit.
+- Explore collaboration alignment.
+- Learn about AI, hybrid modeling, process systems engineering, hydrogen, CCUS, blockchain, process safety, and related areas.
+- Prepare better questions before contacting Dr. Khoda.
+
+What Ask PRODIGI AI Cannot Do
+
+Ask PRODIGI AI cannot:
+- Make admissions decisions.
+- Promise funding or assistantships.
+- Confirm open positions.
+- Approve collaborations.
+- Commit Dr. Khoda to a proposal or project.
+- Provide confidential university information.
+- Replace official university communication.
+- Provide the most current publication metrics unless the knowledge base has been updated.
+
+Prospective Students
+
+Prospective students should review the PRODIGI research areas and identify specific alignment before contacting Dr. Khoda. A strong inquiry should include:
+- Degree goal.
+- Current institution and academic background.
+- Research interests.
+- Relevant skills.
+- Specific PRODIGI research areas of interest.
+- CV or resume.
+- Intended start term.
+- A concise explanation of research fit.
+
+Students should not rely on Ask PRODIGI AI for official information about admission, funding, assistantships, or program requirements. These details may change and should be confirmed through official university channels and direct communication with Dr. Khoda.
+
+Potential Collaborators
+
+Potential collaborators should contact Dr. Khoda with:
+- A concise problem statement.
+- Proposed collaboration topic.
+- Technical alignment with PRODIGI.
+- Available data, models, experimental capabilities, or resources.
+- Expected collaboration type, such as manuscript, proposal, student project, or industry problem.
+- Timeline and deadlines.
+- Draft concept note if available.
+
+Publication Questions
+
+Visitors interested in publications should consult Dr. Khoda’s official publication profiles, Google Scholar, ORCID, institutional profile, or personal website for the most complete and current bibliographic record. Ask PRODIGI AI provides a curated publication summary and may not reflect live citation counts or the most recent indexing updates.
+
+Professional and Academic Networking
+
+Visitors may connect through public professional channels such as the group website, institutional profile, Google Scholar, ORCID, LinkedIn, conference interactions, and academic email communication when available.
+
+Official Information
+
+For official matters involving admission, employment, university policy, course registration, funding, or collaboration agreements, visitors should use official university channels and direct communication with Dr. Khoda. Ask PRODIGI AI is only an informational assistant.
+
+Recommended Website Text
+
+Ask PRODIGI AI
+A retrieval-grounded research assistant for questions about our research, publications, student opportunities, and collaboration areas.
+
+Recommended Button Text
+
+Ask PRODIGI AI
+
+Recommended Short Description
+
+Explore PRODIGI’s research themes, publications, student opportunities, and collaboration areas using a curated knowledge base.
